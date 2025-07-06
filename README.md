@@ -6,7 +6,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/your-username/pc-builder.git
+   git clone https://github.com/mansur095/pc-builder.git
    cd pc-builder
    ```
 2. **Установите зависимости:**
